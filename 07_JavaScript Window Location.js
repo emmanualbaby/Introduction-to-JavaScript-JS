@@ -37,5 +37,5 @@ window.location.reload();
 window.location.assign("https://www.example.com");
 
 // Replace the current URL
-window.location.replace("https://www.example.com"); 
+window.location.replace("https://www.example.com");
 
