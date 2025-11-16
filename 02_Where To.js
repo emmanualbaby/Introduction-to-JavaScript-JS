@@ -1,4 +1,4 @@
-<!-- JS Where To - Example -->
+<!-- JS Where To - Example --> 
 <!DOCTYPE html>
 <html>
 <head>
