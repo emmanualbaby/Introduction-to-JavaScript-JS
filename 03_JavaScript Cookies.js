@@ -1,4 +1,4 @@
-// Setting a Cookie 
+// Setting a Cookie
 // Setting a Cookie
 function setCookie(name, value, days) {
   let expires = "";
