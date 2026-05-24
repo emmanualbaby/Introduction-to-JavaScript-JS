@@ -1,4 +1,4 @@
-// History Methods 
+// History Methods
 
 // Go back to the previous page
 window.history.back();
