@@ -20,4 +20,4 @@ console.log("Color Depth: " + colorDepth);
 // Get the pixel depth of the screen
 let pixelDepth = window.screen.pixelDepth;
 console.log("Pixel Depth: " + pixelDepth);
-// Output: Pixel Depth: [pixel depth]
+// Output: Pixel Depth: [pixel depth] 
