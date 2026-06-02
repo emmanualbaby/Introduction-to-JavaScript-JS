@@ -19,7 +19,7 @@ let protocol = window.location.protocol;
 console.log("Protocol: " + protocol); // Output: Protocol: [current protocol]
 
 // Get the port of the current page
-let port = window.location.port;
+let port = window.location.port; 
 console.log("Port: " + port); // Output: Port: [current port]
 
 
