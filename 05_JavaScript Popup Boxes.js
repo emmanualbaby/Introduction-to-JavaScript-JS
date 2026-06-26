@@ -1,6 +1,6 @@
+// Alert Box 
 // Alert Box
-// Alert Box
-window.alert("This is an alert box!");
+window.alert("This is an alert box!"); 
 
 
 // Confirm Box
